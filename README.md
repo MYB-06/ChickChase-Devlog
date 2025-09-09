@@ -5,7 +5,7 @@
 
 [![Unity](https://img.shields.io/badge/Unity-6.2-black?logo=unity)](https://unity.com/)
 [![Status](https://img.shields.io/badge/Status-Prototype-green)](#features)
-[![Team](https://img.shields.io/badge/Team-3_Developers-blue)](#team)
+[![Team](https://img.shields.io/badge/Team-3-blue)](#team)
 
 ## 🎮 **Game Overview**
 
